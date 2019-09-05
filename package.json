@@ -1,0 +1,20 @@
+{
+  "name": "JS-tips-and-tricks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mssoheil/JS-tips-and-tricks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mssoheil/JS-tips-and-tricks/issues"
+  },
+  "homepage": "https://github.com/mssoheil/JS-tips-and-tricks#readme"
+}

@@ -2,8 +2,10 @@
 
 ### The result will be:
 ```javascript
-{"a":2}
+> first NaN
+> second 42
 ```
 
 ### reason:
-If we use the JSON.stringify() on an object if that property is function or symbol or undefined, that property will be excluded.
+Number checks to see if the data is number or NaN but parseInt starts from the left
+and if sees a not a number it will ignore the rest.

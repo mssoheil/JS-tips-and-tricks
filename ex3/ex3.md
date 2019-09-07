@@ -7,5 +7,5 @@
 ```
 
 ### reason:
-Number checks to see if the data is number or NaN but parseInt starts from the left
+`Number` checks to see if the data is `number` or `NaN` but `parseInt` starts from the left
 and if sees a not a number it will ignore the rest.

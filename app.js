@@ -10,4 +10,4 @@ const ex6 = require("./ex6/ex6");
 // ex3();
 // ex4();
 // ex5();
-ex6();
+//ex6();

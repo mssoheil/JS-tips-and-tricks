@@ -5,6 +5,7 @@ const ex4 = require("./ex4/ex4");
 const ex5 = require("./ex5/ex5");
 const ex6 = require("./ex6/ex6");
 const ex7 = require("./ex7/ex7");
+const ex8 = require("./ex8/ex8");
 
 // ex1();
 // ex2();
@@ -12,4 +13,5 @@ const ex7 = require("./ex7/ex7");
 // ex4();
 // ex5();
 // ex6();
-ex7();
+// ex7();
+ex8();

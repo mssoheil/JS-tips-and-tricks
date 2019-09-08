@@ -2,7 +2,6 @@ module.exports = function() {
 	var a = null;
 	var b;
 	console.log(a == b);
-	console.log(a == null);
 	console.log(b == null);
 	console.log(a == false);
 	console.log(b == false);

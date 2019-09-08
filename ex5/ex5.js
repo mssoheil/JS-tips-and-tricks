@@ -5,3 +5,8 @@ module.exports = function() {
 	console.log(x == y);
 	console.log(x == z);
 };
+
+// A) false false
+// B) false true
+// C) true false
+// D) true true

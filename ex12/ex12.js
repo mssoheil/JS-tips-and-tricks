@@ -1,6 +1,6 @@
 var b = 1;
 try {
-	let 4 = 8;
+	var 4 = 8;
 	b = 5;
 	console.log("try", b);
 } catch (err) {

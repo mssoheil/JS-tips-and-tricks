@@ -7,6 +7,7 @@ console.log(myCounter);
 /** 
  * A: 10
  * B: 11
- * C: Error
+ * C: TypeError
  * D: NaN
+ * E: ReferenceError
  */

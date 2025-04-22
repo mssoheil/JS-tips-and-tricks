@@ -1,3 +1,3 @@
-# JS-tips-and-tricks
+# JS tips and tricks
 
-### Some javascript tips, tricks, gotchas, bugs and wtfs
+Some interesting javascript tips, tricks, gotchas, bugs and wtfs
